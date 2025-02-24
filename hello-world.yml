@@ -6,3 +6,4 @@ job:
     steps:
       - name: Echo text
         run: echo "Hello, world!"
+
